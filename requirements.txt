@@ -1,6 +1,6 @@
 questionary==1.10.0
 rich==10.7.0
-bycrypt
+bcrypt
 fastapi
 uvicorn
 pydantic
